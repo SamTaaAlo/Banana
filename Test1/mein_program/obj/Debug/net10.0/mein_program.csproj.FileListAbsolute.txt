@@ -1,0 +1,15 @@
+C:\meine_programme\test1\Test1\mein_program\bin\Debug\net10.0\mein_program.exe
+C:\meine_programme\test1\Test1\mein_program\bin\Debug\net10.0\mein_program.deps.json
+C:\meine_programme\test1\Test1\mein_program\bin\Debug\net10.0\mein_program.runtimeconfig.json
+C:\meine_programme\test1\Test1\mein_program\bin\Debug\net10.0\mein_program.dll
+C:\meine_programme\test1\Test1\mein_program\bin\Debug\net10.0\mein_program.pdb
+C:\meine_programme\test1\Test1\mein_program\obj\Debug\net10.0\mein_program.GeneratedMSBuildEditorConfig.editorconfig
+C:\meine_programme\test1\Test1\mein_program\obj\Debug\net10.0\mein_program.AssemblyInfoInputs.cache
+C:\meine_programme\test1\Test1\mein_program\obj\Debug\net10.0\mein_program.AssemblyInfo.cs
+C:\meine_programme\test1\Test1\mein_program\obj\Debug\net10.0\mein_program.csproj.CoreCompileInputs.cache
+C:\meine_programme\test1\Test1\mein_program\obj\Debug\net10.0\mein_program.sourcelink.json
+C:\meine_programme\test1\Test1\mein_program\obj\Debug\net10.0\mein_program.dll
+C:\meine_programme\test1\Test1\mein_program\obj\Debug\net10.0\refint\mein_program.dll
+C:\meine_programme\test1\Test1\mein_program\obj\Debug\net10.0\mein_program.pdb
+C:\meine_programme\test1\Test1\mein_program\obj\Debug\net10.0\mein_program.genruntimeconfig.cache
+C:\meine_programme\test1\Test1\mein_program\obj\Debug\net10.0\ref\mein_program.dll
